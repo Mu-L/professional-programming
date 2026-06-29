@@ -822,6 +822,7 @@ Scaling databases:
 - [Falsehoods Programmers Believe About Aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/)
 - [Schemas - Schema.org](https://schema.org/docs/schemas.html)
 - [ZIP Code First](https://zipcodefirst.com/)
+- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
 
 ### Data science/data engineering
 
@@ -1988,6 +1989,7 @@ Resources:
 - [The Password Game](https://neal.fun/password-game/)
 - [Learnings from 5 years of tech startup code audits](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/): don't use JWT.
+- [Stop using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452)
 - [The Six Dumbest Ideas in Computer Security](http://ranum.com/security/computer_security/editorials/dumb/index.html)
 - [How to Say "No" Well](https://ramimac.me/saying-no)
 
