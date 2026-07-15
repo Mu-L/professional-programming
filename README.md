@@ -357,6 +357,7 @@ There are some free books available, including:
 ### Accounting
 
 - [Engineers Do Not Get To Make Startup Mistakes When They Build Ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
+- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
 
 ### Agentic coding
 
@@ -822,7 +823,6 @@ Scaling databases:
 - [Falsehoods Programmers Believe About Aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/)
 - [Schemas - Schema.org](https://schema.org/docs/schemas.html)
 - [ZIP Code First](https://zipcodefirst.com/)
-- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
 
 ### Data science/data engineering
 
@@ -1021,7 +1021,7 @@ Tools
 - [jq: command-line JSON processor](https://stedolan.github.io/jq/)
 - [tmux: terminal multiplexer](http://tmux.github.io/)
 - [htop: an interactive process viewer for Linux](http://hisham.hm/htop/)
-- [htop explained](https://peteris.rocks/blog/htop/)
+- [htop explained](https://peteris.rocks/blog/htop/) (all in one page)
 - [socat](https://copyconstruct.medium.com/socat-29453e9fc8a6)
 - [Visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/)
 - [casey/just](https://github.com/casey/just/): a command runner written in Rust (claims to be better than Makefile)
@@ -1322,9 +1322,9 @@ Example outline for a postmortem:
 
 Note: this is about you as an interviewee, **not** as an interviewer. To check out my list of resources for interviewers, go to my [engineering-management repository](https://github.com/charlax/engineering-management#hiring-interviews).
 
-- [System design interview for IT company](https://github.com/checkcheckzz/system-design-interview)
+- ⭐️ [System design interview for IT company](https://github.com/checkcheckzz/system-design-interview)
 - [Technical Interview Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo): study materials for SE/CS technical interviews
-- [How to Win the Coding Interview](https://medium.com/on-writing-code/how-to-win-the-coding-interview-71ae7102d685)
+- ⭐️ [How to Win the Coding Interview](https://medium.com/on-writing-code/how-to-win-the-coding-interview-71ae7102d685)
 - [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.uq7vbbjfx)
 - [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [Interactive Python coding interview challenges](https://github.com/donnemartin/interactive-coding-challenges)
@@ -1332,9 +1332,9 @@ Note: this is about you as an interviewee, **not** as an interviewer. To check o
 - [A complete computer science study plan to become a software engineer](https://github.com/jwasham/coding-interview-university)
 - [Interview advice that got me offers from Google, Microsoft, and Stripe](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/)
 - [A framework for grading your performance on programming interview problems](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/htmlview?pru=AAABfLx5bfQ*dDBm6wJC2BsJGIrDvJfFQw)
-- [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/), Gergely Orosz
-- [What I Learned from Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days)
-- [System Design Interview Guide for Senior Engineers](https://interviewing.io/guides/system-design-interview), interviewing.io
+- ⭐️ [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/), Gergely Orosz
+- [What I Learned from Doing 60+ Technical Interviews in 30 Days](https://www.freecodecamp.org/news/what-i-learned-from-doing-60-technical-interviews-in-30-days/)
+- ⭐️ [System Design Interview Guide for Senior Engineers](https://interviewing.io/guides/system-design-interview), interviewing.io
 - [noamseg/interview-coach-skill](https://github.com/noamseg/interview-coach-skill): a Claude Code-based interview coach
 
 Questions you should ask:
@@ -2069,17 +2069,17 @@ List of resources:
 
 Reading lists:
 
-- 🧰 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): learn how to design large scale systems. Prep for the system design interview.
+- 🧰 ⭐️ [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): learn how to design large scale systems. Prep for the system design interview.
 - 🧰 [A Distributed Systems Reading List](http://dancres.github.io/Pages/)
 - 🧰 [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 - 🧰 [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
 - 🧰 [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design): learn how to design systems at scale and prepare for system design interviews
+- ⭐️ [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design): learn how to design systems at scale and prepare for system design interviews
 - [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
 
 Blogs:
 
-- [High Scalability](http://highscalability.com/): great blog about system architecture, its weekly review article are packed with numerous insights and interesting technology reviews. Checkout the [all-times favorites](http://highscalability.com/all-time-favorites/).
+- [High Scalability](http://highscalability.com/): great blog about system architecture, its weekly review article are packed with numerous insights and interesting technology reviews. Checkout the [all-times favorites](http://highscalability.squarespace.com/all-time-favorites/).
 
 Books:
 
